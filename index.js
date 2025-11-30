@@ -1,5 +1,6 @@
 // import ical
-const ical = require('node-ical');
+import ical from './node_modules/ical.js';
+
 /*
 // do stuff in an async function
 ;(async () => {
