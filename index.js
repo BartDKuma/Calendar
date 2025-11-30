@@ -1,6 +1,6 @@
-/*/ import ical
+// import ical
 const ical = require('node-ical');
-
+/*
 // do stuff in an async function
 ;(async () => {
     // load and parse this file without blocking the event loop
