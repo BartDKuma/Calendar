@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BartDKuma/Calendar/issues"
   },
-  "homepage": "https://github.com/BartDKuma/Calendar#readme"
+  "homepage": "https://github.com/BartDKuma/Calendar#readme",
+  "dependencies": {
+    "node-ical": "^0.22.1"
+  }
 }
