@@ -18,5 +18,8 @@
   "homepage": "https://github.com/BartDKuma/Calendar#readme",
   "dependencies": {
     "node-ical": "^0.22.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.103.0"
   }
 }
